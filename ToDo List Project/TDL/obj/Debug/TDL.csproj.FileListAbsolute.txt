@@ -1,0 +1,10 @@
+C:\Users\noahc\OneDrive\Desktop\ToDo List Project\TDL\bin\Debug\TDL.exe.config
+C:\Users\noahc\OneDrive\Desktop\ToDo List Project\TDL\bin\Debug\TDL.exe
+C:\Users\noahc\OneDrive\Desktop\ToDo List Project\TDL\bin\Debug\TDL.pdb
+C:\Users\noahc\OneDrive\Desktop\ToDo List Project\TDL\obj\Debug\TDL.csproj.AssemblyReference.cache
+C:\Users\noahc\OneDrive\Desktop\ToDo List Project\TDL\obj\Debug\TDL.Form1.resources
+C:\Users\noahc\OneDrive\Desktop\ToDo List Project\TDL\obj\Debug\TDL.Properties.Resources.resources
+C:\Users\noahc\OneDrive\Desktop\ToDo List Project\TDL\obj\Debug\TDL.csproj.GenerateResource.cache
+C:\Users\noahc\OneDrive\Desktop\ToDo List Project\TDL\obj\Debug\TDL.csproj.CoreCompileInputs.cache
+C:\Users\noahc\OneDrive\Desktop\ToDo List Project\TDL\obj\Debug\TDL.exe
+C:\Users\noahc\OneDrive\Desktop\ToDo List Project\TDL\obj\Debug\TDL.pdb
